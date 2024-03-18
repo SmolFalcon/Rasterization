@@ -1,0 +1,85 @@
+﻿  Test_OpenCV.cpp
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(150,14): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(151,14): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(154,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(155,36): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(327,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(331,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(335,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(340,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(344,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(348,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(353,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(357,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(361,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(366,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(370,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(374,17): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(406,21): warning C4838: la conversión de 'int' en 'double' requiere una conversión de restricción
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(406,25): warning C4838: la conversión de 'int' en 'double' requiere una conversión de restricción
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(427,41): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(437,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(438,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(439,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(453,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(454,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(467,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(468,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(469,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(595,27): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(918,42): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(982,43): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(986,48): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(1038,65): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(1043,67): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(1048,41): warning C4305: '=': truncamiento de 'double' a '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\Test_OpenCV\Test_OpenCV.cpp(658,10): warning C4101: 'pnt_vector': variable local sin referencia
+  Test_OpenCV.vcxproj -> C:\Users\gulug\Desktop\ComputacionGrafica\Test_OpenCV\x64\Debug\Test_OpenCV.exe
